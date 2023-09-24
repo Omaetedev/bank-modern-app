@@ -1,5 +1,3 @@
-import React from 'react'
-
 import { Navbar, Billing, CardDeal, Business, Clients, CTA, Stats, Footer, Testimonials, Hero } from './components/index'
 import styles from './style';
 
